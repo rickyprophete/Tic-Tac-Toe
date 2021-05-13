@@ -39,9 +39,7 @@ for(const cellDiv of gameCells){
 footer.addEventListener('click',restart);
 
 //functions
-const cpuPlay = () =>{
-  
-}
+
 
 const isWinner =(p)=> ////if p wins return true
 {
